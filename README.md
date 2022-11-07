@@ -1,6 +1,5 @@
 # git-demo
 
-
 ![](https://cataas.com/c)
 
 # jo szerencset
@@ -13,7 +12,7 @@
 
 - [ ] implement homework
 - [ ] grade classes
-- [ ] add homework
+- [x] add homework
 
 vknljvnslnvlésnf
 
